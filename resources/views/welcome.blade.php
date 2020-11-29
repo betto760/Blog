@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravels
                 </div>
                 <button class="btn btn-success">Guardar</button>
                 <button class="btn btn-danger">Cancelar</button>
