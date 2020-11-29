@@ -85,7 +85,7 @@
                     Laravel
                 </div>
                 <button class="btn btn-success">Guardar</button>
-                <button class="btn btn-warning">Cancelar</button>
+                <button class="btn btn-danger">Cancelar</button>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
