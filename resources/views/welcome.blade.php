@@ -83,7 +83,6 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-                <p>Lorem ipsum dolodsdr sit amet consectetur adipisicing elit. Eveniet unde nobis molestias nesciunt consectetur sed nulla voluptates assumenda itaque corrupti fugit temporibus tempora quibusdam numquam omnis provident, ullam nam eius.</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
